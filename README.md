@@ -29,7 +29,7 @@ Software engineering plays a vital role in the technology industry, and its impo
 
  
 
-Identify and describe at least three key milestones in the evolution of software engineering.
+# Identify and describe at least three key milestones in the evolution of software engineering.
 1. The NATO Software Engineering Conference (1968)
 The NATO Software Engineering Conference, held in Garmisch, Germany, marked the official birth of software engineering as a distinct field. This conference brought together experts from various fields to discuss the challenges and opportunities in software development. The conference led to the recognition of software engineering as a discipline that requires a systematic approach to software development.
 
@@ -39,7 +39,7 @@ The introduction of Object-Oriented Programming (OOP) revolutionized software en
 3. The Agile Manifesto and the Rise of Agile Methodologies (2001)
 The Agile Manifesto, signed by a group of software developers, marked a significant shift in software engineering towards more flexible and iterative approaches. Agile methodologies such as Scrum, Kanban, and Extreme Programming (XP) emphasized collaboration, continuous improvement, and rapid delivery.
 
-List and briefly explain the phases of the Software Development Life Cycle.
+# List and briefly explain the phases of the Software Development Life Cycle.
 
 1. Planning Phase: Define project scope, goals, timelines, budget, and resources. Identify potential risks and develop a mitigation plan.
 
@@ -58,7 +58,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 9. Maintenance Phase: Provide ongoing support, updates, and bug fixes to ensure the software continues to meet changing user needs.
 
 
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+# Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall Methodology
 1. Linear and sequential: Phases are completed one after the other, with no overlap.
 2. Predictive: Requirements are gathered upfront, and the project plan is created accordingly.
@@ -82,7 +82,7 @@ Scenarios for Agile
 3. Collaborative, cross-functional teams: Where stakeholders need to work closely together to deliver a project (e.g., product development, IT projects).
 
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+# Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Software Developer
 - Designs, develops, tests, and maintains software applications
 - Writes clean, efficient, and well-documented code
@@ -108,7 +108,7 @@ Project Manager
 - Ensures project deliverables meet quality, scope, and timeline requirements
 - Manages and reports on project progress, issues, and changes
 
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+# Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 Importance of Integrated Development Environments (IDEs)
 
 1. Improved productivity: IDEs provide a comprehensive development environment, reducing the need to switch between multiple tools and applications.
@@ -138,7 +138,7 @@ Examples of VCS:
 5. CVS (Concurrent Versions System) (centralized VCS)
 
 
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+# What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Technical Challenges
 1. Complexity and Technical Debt
     - Break down complex problems into smaller, manageable tasks.
@@ -189,7 +189,7 @@ Strategies for Success
 5. Communication and Feedback: Practice active listening, clear communication, and regular feedback sessions.
 
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+# Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 Types of Testing
 1. Unit Testing
 - Definition: Unit testing involves testing individual units of code, such as functions or methods, to ensure they work as expected.
@@ -218,10 +218,10 @@ Importance of Testing in Software Quality Assurance
 4. Reduce Costs: Testing helps reduce costs by identifying and fixing defects early, reducing the need for costly rework or repairs.
 5. Enhance User Experience: Testing ensures the software is user-friendly, intuitive, and meets the end-user's expectations, leading to a better user experience.
 
-#Part 2: Introduction to AI and Prompt Engineering
+# Part 2: Introduction to AI and Prompt Engineering
 
 
-Define prompt engineering and discuss its importance in interacting with AI models.
+# Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering is the process of designing, crafting, and optimizing text prompts or inputs to elicit specific, desired responses from artificial intelligence (AI) models, particularly language models. The goal of prompt engineering is to create high-quality prompts that effectively communicate the task, context, and requirements to the AI model, enabling it to generate accurate, relevant, and useful responses.
 
 Importance of Prompt Engineering:
@@ -240,7 +240,7 @@ Best Practices for Prompt Engineering:
 4. Iterative Refining: Refine and iterate on prompts based on AI model responses to improve accuracy and relevance.
 5. Diverse and Inclusive Prompts: Use diverse and inclusive prompts to mitigate biases and ensure fair and representative responses.
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+# Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague Prompt:
 "Write a story about a person who learns something new."
 
